@@ -5,10 +5,6 @@ A simple Todo List application built with HTML, CSS, and JavaScript.
 # Introduction
 This Todo List application allows users to add, view, and manage their tasks conveniently.
 
-# Features
-Add Task: Users can add new tasks to the list.
-View Tasks: Users can view the list of tasks they have added.
-Instagram: Follow us on Instagram @web06 for updates and more.
 
 # Features
 Add Tasks: Users can add new tasks to the list.
@@ -26,3 +22,5 @@ Include a screenshot or GIF of your application here to provide users with a vis
 
 License
 This project is licensed under the MIT License.
+
+Author: Ashish sharma
